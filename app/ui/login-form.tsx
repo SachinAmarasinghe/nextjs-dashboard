@@ -63,7 +63,6 @@ export default function LoginForm() {
     </form>
   );
 }
-
 function LoginButton() {
   return (
     <Button className="mt-4 w-full">
